@@ -1,0 +1,17 @@
+# ninja log v6
+13	908	7682929164143467	CMakeFiles/NominaMVC.dir/src/model/Junior.cpp.obj	c5f8ec5814879876
+2	1354	7682929164041233	CMakeFiles/NominaMVC.dir/src/main.cpp.obj	4e705c8ee498a124
+23	910	7682929164238428	CMakeFiles/NominaMVC.dir/src/model/Tecnico.cpp.obj	15d53c8f540c6517
+18	913	7682929164194468	CMakeFiles/NominaMVC.dir/src/model/Senior.cpp.obj	5097b896e4e90038
+8	911	7682929164098107	CMakeFiles/NominaMVC.dir/src/model/Empleado.cpp.obj	ac6603811017b0cb
+28	912	7682929164293060	CMakeFiles/NominaMVC.dir/src/model/Tester.cpp.obj	ead53825b8f236bc
+33	1253	7682929164343045	CMakeFiles/NominaMVC.dir/src/view/View.cpp.obj	423d4ec55c85c927
+1354	1528	7682929177549451	NominaMVC.exe	505a880df9bb8834
+23	579	7682936332563295	CMakeFiles/10-herencia-polim-salario-nima.dir/src/model/Junior.cpp.obj	3cb71da8d8fff4a9
+28	561	7682936332607348	CMakeFiles/10-herencia-polim-salario-nima.dir/src/model/Senior.cpp.obj	81c5271c83706c15
+20	586	7682936332522499	CMakeFiles/10-herencia-polim-salario-nima.dir/src/model/Empleado.cpp.obj	7ae92db2908d21cd
+38	617	7682936332699873	CMakeFiles/10-herencia-polim-salario-nima.dir/src/model/Tester.cpp.obj	63ef4b2ca6810a40
+33	597	7682936332654484	CMakeFiles/10-herencia-polim-salario-nima.dir/src/model/Tecnico.cpp.obj	b074e7f3214c1284
+42	814	7682936332745042	CMakeFiles/10-herencia-polim-salario-nima.dir/src/view/View.cpp.obj	c8e77e548f786ecd
+14	857	7682936332464892	CMakeFiles/10-herencia-polim-salario-nima.dir/src/main.cpp.obj	ff6693858d245b9b
+857	967	7682936340894507	10-herencia-polim-salario-nima.exe	e6738544ec4c3751
