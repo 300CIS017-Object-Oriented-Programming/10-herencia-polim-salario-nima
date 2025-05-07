@@ -1,0 +1,3 @@
+D:/10-herencia-polim-salario-nima/cmake-build-debug/CMakeFiles/10-herencia-polim-salario-nima.dir
+D:/10-herencia-polim-salario-nima/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/10-herencia-polim-salario-nima/cmake-build-debug/CMakeFiles/rebuild_cache.dir
